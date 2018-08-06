@@ -1,0 +1,8 @@
+{
+  "licence" : "MIT",
+  "autoload": {
+    "psr-4": {
+      "GDS\\": "GDS\\"
+    }
+  }
+}
